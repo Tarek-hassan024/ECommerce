@@ -1,0 +1,20 @@
+.col-md-2 img{
+	width:200px;
+}
+.img-thumbnail {
+    height: 50px !important;
+}
+
+.table-dark td, .table-dark th, .table-dark thead th {
+    border-color: #32383e;
+    color: red;
+}
+.carousel-item img {
+    width: 100%;
+	height:500px;
+}
+body{
+	
+	background-image: url("agriculture-bird-s-eye-view-colors-1081912.png");
+	#background-color:green;
+}
