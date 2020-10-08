@@ -18,3 +18,14 @@ body{
 	background-image: url("agriculture-bird-s-eye-view-colors-1081912.png");
 	#background-color:green;
 }
+
+.Bg{
+
+        height: auto;
+	background-color:#ccc
+	background-image: url("Shirt.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+        height: 510px;
+}
